@@ -1,0 +1,1 @@
+select * from 마일리지등급;
